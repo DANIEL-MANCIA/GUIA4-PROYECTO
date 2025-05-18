@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1747415250661,
+    "nombre": "Gabriel García Márquez",
+    "nacionalidad": "Colombiano",
+    "fechaNacimiento": "1927-03-06",
+    "biografia": "Premio Nobel de Literatura en 1982, autor de 'Cien años de soledad'."
+  },
+  {
+    "id": 1747418707162,
+    "nombre": "J.K. Rowling",
+    "nacionalidad": "Británica",
+    "fechaNacimiento": "1965-07-31",
+    "biografia": "Autora de la famosa serie de Harry Potter."
+  },
+  {
+    "id": 1747418707163,
+    "nombre": "Mario Vargas Llosa",
+    "nacionalidad": "Peruano",
+    "fechaNacimiento": "1936-03-28",
+    "biografia": "Premio Nobel de Literatura en 2010."
+  }
+]

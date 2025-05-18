@@ -1,0 +1,42 @@
+[
+  {
+    "id": 2747415250661,
+    "titulo": "Cien años de soledad",
+    "autorId": 1747415250661,
+    "autor": "Gabriel García Márquez",
+    "anio": 1967,
+    "genero": "Realismo mágico",
+    "isbn": "978-0307474728",
+    "editorial": "Sudamericana"
+  },
+  {
+    "id": 2747418707162,
+    "titulo": "Harry Potter y la piedra filosofal",
+    "autorId": 1747418707162,
+    "autor": "J.K. Rowling",
+    "anio": 1997,
+    "genero": "Fantasía",
+    "isbn": "978-8478884452",
+    "editorial": "Salamandra"
+  },
+  {
+    "id": 2747418707163,
+    "titulo": "La ciudad y los perros",
+    "autorId": 1747418707163,
+    "autor": "Mario Vargas Llosa",
+    "anio": 1963,
+    "genero": "Novela",
+    "isbn": "978-8420471839",
+    "editorial": "Alfaguara"
+  },
+  {
+    "id": 2747418707164,
+    "titulo": "El amor en los tiempos del cólera",
+    "autorId": 1747415250661,
+    "autor": "Gabriel García Márquez",
+    "anio": 1985,
+    "genero": "Novela romántica",
+    "isbn": "978-0307388674",
+    "editorial": "Sudamericana"
+  }
+]
